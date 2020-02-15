@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfb6d134-7405-4cf9-b635-27a4ec3a4eb0" name="Default Changelist" comment="" />
+    <list default="true" id="dfb6d134-7405-4cf9-b635-27a4ec3a4eb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HiWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HiWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +19,23 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\wmd\IdeaProjects\hiworld\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1XpFyzYuHafTL9Xgnt7kKBwJb06" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -51,17 +70,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581735388187</updated>
-      <workItem from="1581735390360" duration="158000" />
+      <workItem from="1581735390360" duration="825000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1581735839817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581735839817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="485" y="0" key="CommitChangelistDialog2" timestamp="1581735834905">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="485" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581735834905" />
     <state x="53" y="250" key="FileChooserDialogImpl" timestamp="1581735653344">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="53" y="250" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581735653344" />
+    <state x="202" y="142" key="Vcs.Push.Dialog.v2" timestamp="1581736014586">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="202" y="142" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581736014586" />
   </component>
 </project>
